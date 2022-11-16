@@ -1,0 +1,17 @@
+.task-counter {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-items: flex-end;
+  gap: 6px;
+
+  margin-top: 40px;
+  margin-bottom: 24px;
+}
+
+.task-counter span:first-child {
+  background-color: #d5d5d5;
+  padding: 0px 8px;
+  border-radius: 4px;
+}
